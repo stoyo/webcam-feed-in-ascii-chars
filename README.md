@@ -1,27 +1,12 @@
-# asciicam
+# Webcam feed in AScii characters
 
-> A Vue.js project
+Built with Vue.js
 
-## Build Setup
+##Useful links
+https://hacks.mozilla.org/2011/12/faster-canvas-pixel-manipulation-with-typed-arrays/<br/>
+http://www.dfstudios.co.uk/articles/programming/image-programming-algorithms/image-processing-algorithms-part-5-contrast-adjustment/<br/>
+https://github.com/idevelop/ascii-camera<br/>
+http://stackoverflow.com/questions/596216/formula-to-determine-brightness-of-rgb-color
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##Preview
+![alt tag](https://s12.postimg.org/7rvf14k3h/screencapture_localhost_8080_1480194516181.png)
